@@ -1,0 +1,2 @@
+# Carpeta creada para funciones para llamadas al backend
+# Aqui se colocará una descripción de que es lo que hace de forma mas detallada

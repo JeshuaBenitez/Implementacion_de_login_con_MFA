@@ -1,0 +1,2 @@
+# Carpeta para almacenar los componentes reutilizables (botones, inputs, etc.).
+# Aqui se colocará una descripción de que es lo que hace de forma mas detallada

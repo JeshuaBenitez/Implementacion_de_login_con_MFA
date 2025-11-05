@@ -1,0 +1,5 @@
+# custom hooks (useAuth, useForm, etc.)
+# Aqui se colocará una descripción de que es lo que hace de forma mas detallada
+# un hook es una función especial que permite "enganchar" o interceptar
+eventos en el ciclo de vida de una aplicación, principalmente para añadir funcionalidad
+sin modificar el código principal.
